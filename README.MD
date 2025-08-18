@@ -1,4 +1,4 @@
-# 💻 Programación 1  
+# 💻 Programación
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*  
 
@@ -7,7 +7,7 @@
 - **Comisión:** M2025-12
 
 ## 📂 Descripción del Repositorio  
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
+Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1-2**.  
 
 📌 **Estructura del repositorio:**  
 - Cada trabajo está organizado en carpetas individuales.  
