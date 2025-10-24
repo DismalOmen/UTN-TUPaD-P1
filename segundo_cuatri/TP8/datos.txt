@@ -1,0 +1,3 @@
+Este es un archivo de ejemplo
+Para demostrar el manejo de excepciones
+En el ejercicio de Java
